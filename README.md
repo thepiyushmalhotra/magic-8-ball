@@ -1,10 +1,8 @@
-# magic_ball
+# magic_8_ball
 
-A new Flutter project.
+A tiny flutter project for Magic 8 Ball toy.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
