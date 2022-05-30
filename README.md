@@ -1,6 +1,8 @@
 # magic_8_ball
 
-A tiny flutter project for Magic 8 Ball toy.
+![magic_8_ball](https://user-images.githubusercontent.com/46517096/171029465-09ca083a-f83a-4c24-aca5-2cd9147ad602.png)
+
+A tiny flutter project to simulate the popular Magic 8 Ball toy.
 
 ## Getting Started
 
